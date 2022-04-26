@@ -1,0 +1,6 @@
+patrones\Computadora.class
+patrones\Tablet.class
+PatronFactory\ArticuloFactory.class
+patrones\Smartphone.class
+PatronFactory\Factory.class
+patrones\TestArticulos.class
